@@ -1,0 +1,14 @@
+- Import inventory database.
+- Display number of products per category.
+- Display max category products price.
+- Display user ahmed orders populated with product.
+- Get user ahemd highest order price
+
+- import books.json.
+
+- Running aggregation queries that use multiple stages ($match, $group, $count, $skip, $limit, $lookup, $sortByCount etc).
+
+- Using $project and $addFields with operator expressions such as ($getField, $first, $concat, $dateToString, $arrayElemAt etc).
+
+- Using $unwind.
+
